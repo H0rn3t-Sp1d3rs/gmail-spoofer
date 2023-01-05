@@ -4,7 +4,7 @@ Email Spoofer Tool for Spoofing Gmail Addresses.<br>
                                        MADE IN Bangladesh
 
 <br>
-![xxx](https://user-images.githubusercontent.com/97798085/210748054-ac2f3322-1be9-4861-a531-dbf0cbf8c328.jpg)
+<img src="https://user-images.githubusercontent.com/97798085/210748054-ac2f3322-1be9-4861-a531-dbf0cbf8c328.jpg">
 <br>
 ### [+] Disclaimer :
 ***The Spoofy aka Gmail Spoofer tool is for educational purposes only. Iam not responsible if you missue it***
@@ -24,3 +24,9 @@ Email Spoofer Tool for Spoofing Gmail Addresses.<br>
 <p>Recipient servers and antimalware software can help detect and filter spoofed messages. Unfortunately, not every email service has security protocols in place. Still, users can review email headers packaged with every message to determine whether the sender's address is forged.</p>
 
 <p>Our tool is recognized as email spoofer GitHub as people love to use it. Spoofy is widely used for email spoofing. It is also known as email spoofer online. We don't recommand our tool for spoofing emails like paypal and other financial apps.</p>
+<br>
+<hr>
+<h3 align="left">Contact with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/H0rn3t.Sp1d3rs"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.facebook.com/call.me.H0rn3t.Sp1d3rs"><img title="Messenger" src="https://img.shields.io/badge/Messenger-red?style=for-the-badge&logo=messenger"></a>
