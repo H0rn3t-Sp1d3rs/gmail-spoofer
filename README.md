@@ -11,6 +11,8 @@ Email Spoofer Tool for Spoofing Gmail Addresses.<br>
 
 
 ## Installation :
+* `pip install machenize`
+* `pip install requests`
 * `pkg install git`
 * `pkg install python`
 * `git clone https://github.com/H0rn3t-Sp1d3rs/gmail-spoofer`
